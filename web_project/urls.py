@@ -26,5 +26,5 @@ urlpatterns = [
 
 urlpatterns += staticfiles_urlpatterns()
 urlpatterns += i18n_patterns(
-    # Add your URLs here
+    # future urls
 )
